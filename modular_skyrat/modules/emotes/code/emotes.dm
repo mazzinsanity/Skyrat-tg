@@ -126,7 +126,7 @@
 	key = "msqueak"
 	key_third_person = "lets out a tiny squeak"
 	message = "lets out a tiny squeak!"
-	emote_type = EMOTE_AUDIBLE
+	emote_type = EMOTE_AUDIBLEa
 	vary = TRUE
 	sound = 'modular_skyrat/modules/emotes/sound/voice/mothsqueak.ogg'
 
